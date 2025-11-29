@@ -1,4 +1,4 @@
-The folder structure will touch each character individually, catagorised by game. It'll also include other things like game icons and found textures in a misc catagory. <br>
+To see more than just Character Renders, check the Branches! (Currently, only Characters exists but this will be updated soon.) <br>
 <br>
 Images in the folders can originate from different games. <br>
 <br>
