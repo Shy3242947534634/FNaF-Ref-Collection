@@ -1,6 +1,6 @@
 Completion:
 <br>
-FNaF 1 - Game Renders: :no_entry: - All Known Renders: :no_entry:<br>
+FNaF 1 - Game Renders: :white_check_mark: - All Known Renders: :no_entry:<br>
 FNaF 2 - Game Renders: :white_check_mark: - All Known Renders: :no_entry:<br>
 FNaF 3 - Game Renders: :no_entry: - All Known Renders: :no_entry:<br>
 FNaF 4 - Game Renders: :no_entry: - All Known Renders: :no_entry:<br>
