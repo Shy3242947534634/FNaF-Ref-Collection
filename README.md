@@ -5,6 +5,7 @@ FNaF 3 - Game Renders: :white_check_mark: - All Known Renders: :no_entry:<br>
 FNaF 4 - Game Renders: :white_check_mark: - All Known Renders: :no_entry:<br>
 FNaF SL - Game Renders: :white_check_mark: - All Known Renders: :no_entry:<br>
 FFPS - Game Renders: :white_check_mark: - All Known Renders: :no_entry:<br>
+Ultimate Custom Night - Game Renders: :white_check_mark: - All Known Renders: :no_entry:<br>
 <br>
 <br>
 **The "Corrected" folder in each character's folder will contain images with fixes to colour correction, warping, etc. to make the result closer to the theoretical raw render. These will be added after the raw renders.**
