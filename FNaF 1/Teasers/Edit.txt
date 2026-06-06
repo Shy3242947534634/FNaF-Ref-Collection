@@ -1,0 +1,4 @@
+In Photoshop:
++ 20 Saturation
++ 25 Brightness (Legacy)
++ 25 Contrast (Legacy)

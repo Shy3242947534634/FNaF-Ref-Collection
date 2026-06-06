@@ -17,4 +17,5 @@ Ultimate Custom Night - Game Renders: :white_check_mark: - All Known Renders: :n
 <br>
 ## Special Thanks:<br>
 [KatelynDeveloper](https://github.com/katelyn2009) for making a script that made everything way easier<br>
-[Thudner](https://x.com/thunderbob333) for making some of the uncropped jumpscares
+[Thudner](https://x.com/thunderbob333) for making some of the uncropped jumpscares<br>
+[TheFNaFArchive.org](https://thefnafarchive.org/) for the teaser images
