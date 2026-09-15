@@ -1,14 +1,12 @@
 # Completion:
-FNaF 1 - :white_check_mark:<br>
-FNaF 2 - :white_check_mark:<br>
-FNaF 3 - :white_check_mark:<br>
-FNaF 4 - :white_check_mark:<br>
-FNaF SL - :white_check_mark:<br>
-FFPS - :white_check_mark:<br>
-Ultimate Custom Night - :white_check_mark:<br>
+Game Renders - :white_check_mark:<br>
+Non-Game Renders (Merchandise, Book Covers, etc.) - <br>
+Sourced Textures (That we know of) - :white_check_mark:<br>
+Created Textures (That we know of) - :white_check_mark:<br>
+
 <br>
 <br>
-**The "Corrected" folder in each character's folder will contain images with fixes to colour correction, warping, etc. to make the result closer to the theoretical raw render. These will be added after the raw renders.**
+**This collection only contains the images we have in relatively good quality. This means no photos of merch items or edited versions of images unless there isn't an alternative.**
 <br>
 <br>
 **You can find specific Renders by Searching the repo! Just click "Go to file" or press "T" on the homepage and type away!**
