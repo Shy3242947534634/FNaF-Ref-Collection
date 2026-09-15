@@ -6,6 +6,6 @@
 
 
 ## Special Thanks:
-[KatelynDeveloper](https://github.com/katelyn2009) for making a script that made everything way easier
-[Thudner](https://x.com/thunderbob333) for making some of the uncropped jumpscares
-[TheFNaFArchive.org](https://thefnafarchive.org/) for the teaser images
+[KatelynDeveloper](https://github.com/katelyn2009) for making a script that made everything way easier<br>
+[Thudner](https://x.com/thunderbob333) for making some of the uncropped jumpscares<br>
+[TheFNaFArchive.org](https://thefnafarchive.org/) for the teaser images<br>
